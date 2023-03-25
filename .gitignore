@@ -7,6 +7,4 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
-
-# dimi02
-# Djangopass1!
+creds.
